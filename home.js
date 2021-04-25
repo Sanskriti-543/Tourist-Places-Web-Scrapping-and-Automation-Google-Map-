@@ -1,8 +1,7 @@
 const puppy = require("puppeteer");
 
 let places = ["Kolhapur ", "Rajgad Fort", "Ajanta Caves" , "Arthur Seat","Elephanta Caves" , "Gateway Of India" , "Daultabad Fort" , "Shivling Point" , "Louisa Point"];
-    // Route2: ["Delhi", "Dharamshala", "Amritsar", "Rishikesh", "Delhi", "Jaipur", "Jaisalmer", "Jodhpur", "Udaipur", "Pushkar", "Agra ", "Varanasi"]
-
+  
     let i;
 
 async function main() {
